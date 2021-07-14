@@ -1,2 +1,2 @@
-# DIO_Instagram_HomePage
+# Homepage Instagram
 Projeto da DIO do bootcamp de HTML recriando a página inicial do Instagram utilizando o Flexbox
